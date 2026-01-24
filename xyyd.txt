@@ -24,9 +24,9 @@ CCTV3,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001598/index
 CCTV3,http://211.137.115.109:80/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 CCTV4,http://211.137.115.109:80/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
 CCTV4,http://211.137.115.109:80/gitv_live/CCTV-4/CCTV-4.m3u8
@@ -217,9 +217,9 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 西安教育电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
 卫视,#genre#
-湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001042/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001042/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://211.137.115.109:80/gitv_live/G_HUNAN-MD/G_HUNAN-MD.m3u8
 湖南卫视,http://211.137.115.109:80/gitv_live/HNWS-HD/HNWS-HD.m3u8
@@ -246,18 +246,18 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001051/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001051/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001051/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001051/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://211.137.115.109:80/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 安徽卫视,http://211.137.115.109:80/gitv_live/AHWS/AHWS.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001034/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001034/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001034/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001034/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://211.137.115.109:80/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
 北京卫视,http://211.137.115.109:80/gitv_live/BTV-1/BTV-1.m3u8
 北京卫视,http://211.137.115.109:80/gitv_live/G_BEIJING/G_BEIJING.m3u8
