@@ -50,11 +50,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
 http://211.137.115.109:80/gitv_live/G_CCTV-4-MD/G_CCTV-4-MD.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
@@ -216,9 +216,9 @@ http://211.137.115.109:80/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV16
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV16
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV16
 http://211.137.115.109:80/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV16
@@ -414,11 +414,11 @@ http://211.137.115.109:80/gitv_live/G_XIANJIAOYU/G_XIANJIAOYU.m3u8
 #EXTINF:-1 tvg-id="西安教育电视台" tvg-name="西安教育电视台" tvg-logo="https://11.112114.xyz/logo/西安教育电视台.png" group-title="其他",西安教育电视台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001042/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001042/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
@@ -472,7 +472,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001051/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001051/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -480,7 +480,7 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001051/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001051/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://211.137.115.109:80/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -490,11 +490,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001034/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001034/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001034/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001034/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://211.137.115.109:80/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -950,9 +950,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN阿语
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN阿语
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002826/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN法语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN法语
@@ -990,9 +990,9 @@ http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001064/index.m3u8?
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://11.112114.xyz/logo/CETV2.png" group-title="其他",CETV2
 http://211.137.115.109:80/gitv_live/G_CETV-2/G_CETV-2.m3u8
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://11.112114.xyz/logo/CETV3.png" group-title="其他",CETV3
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://11.112114.xyz/logo/CETV3.png" group-title="其他",CETV3
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://11.112114.xyz/logo/CETV3.png" group-title="其他",CETV3
 http://211.137.115.109:80/gitv_live/G_CETV-3/G_CETV-3.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://11.112114.xyz/logo/CETV4.png" group-title="其他",CETV4
@@ -1080,11 +1080,11 @@ http://211.137.115.109:80/gitv_live/G_KLCD-HD/G_KLCD-HD.m3u8
 #EXTINF:-1 tvg-id="陕西导视" tvg-name="陕西导视" tvg-logo="https://11.112114.xyz/logo/陕西导视.png" group-title="陕西",陕西导视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西导视" tvg-name="陕西导视" tvg-logo="https://11.112114.xyz/logo/陕西导视.png" group-title="陕西",陕西导视
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西导视" tvg-name="陕西导视" tvg-logo="https://11.112114.xyz/logo/陕西导视.png" group-title="陕西",陕西导视
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="陕西导视" tvg-name="陕西导视" tvg-logo="https://11.112114.xyz/logo/陕西导视.png" group-title="陕西",陕西导视
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://11.112114.xyz/logo/精彩综艺.png" group-title="其他",精彩综艺
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="https://11.112114.xyz/logo/精彩综艺.png" group-title="其他",精彩综艺
@@ -1198,21 +1198,21 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002563/index.m3
 #EXTINF:-1 tvg-id="未知" tvg-name="未知" tvg-logo="https://11.112114.xyz/logo/未知.png" group-title="其他",未知
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002563/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="汉中综合" tvg-name="汉中综合" tvg-logo="https://11.112114.xyz/logo/汉中综合.png" group-title="其他",汉中综合
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001497/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="汉中综合" tvg-name="汉中综合" tvg-logo="https://11.112114.xyz/logo/汉中综合.png" group-title="其他",汉中综合
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001497/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="佛坪电视台" tvg-name="佛坪电视台" tvg-logo="https://11.112114.xyz/logo/佛坪电视台.png" group-title="其他",佛坪电视台
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="佛坪电视台" tvg-name="佛坪电视台" tvg-logo="https://11.112114.xyz/logo/佛坪电视台.png" group-title="其他",佛坪电视台
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001929/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="勉县综合" tvg-name="勉县综合" tvg-logo="https://11.112114.xyz/logo/勉县综合.png" group-title="其他",勉县综合
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002415/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002415/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="勉县综合" tvg-name="勉县综合" tvg-logo="https://11.112114.xyz/logo/勉县综合.png" group-title="其他",勉县综合
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002415/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002415/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://11.112114.xyz/logo/西乡融媒.png" group-title="其他",西乡融媒
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="西乡融媒" tvg-name="西乡融媒" tvg-logo="https://11.112114.xyz/logo/西乡融媒.png" group-title="其他",西乡融媒
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002207/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="千阳电视台" tvg-name="千阳电视台" tvg-logo="https://11.112114.xyz/logo/千阳电视台.png" group-title="其他",千阳电视台
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002425/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="千阳电视台" tvg-name="千阳电视台" tvg-logo="https://11.112114.xyz/logo/千阳电视台.png" group-title="其他",千阳电视台
@@ -1440,9 +1440,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002745/index.m3
 #EXTINF:-1 tvg-id="清涧综合" tvg-name="清涧综合" tvg-logo="https://11.112114.xyz/logo/清涧综合.png" group-title="其他",清涧综合
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002745/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="太白综合" tvg-name="太白综合" tvg-logo="https://11.112114.xyz/logo/太白综合.png" group-title="其他",太白综合
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002881/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002881/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="太白综合" tvg-name="太白综合" tvg-logo="https://11.112114.xyz/logo/太白综合.png" group-title="其他",太白综合
-http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002881/index.m3u9?virtualDomain=yinhe.live_hls.zte.com
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002881/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002801/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
