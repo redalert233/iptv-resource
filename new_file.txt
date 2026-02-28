@@ -1,1 +1,2 @@
 北京卫视,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
